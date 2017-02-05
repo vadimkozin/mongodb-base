@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-base",
+  "version": "0.0.0",
+  "description": "The basics of MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VK",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  }
+}
